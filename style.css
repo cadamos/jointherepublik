@@ -1,0 +1,34 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color: white;
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+}
+
+.grey-background {
+  background-color: #eeeeee;
+  height: 600px;
+}
+
+.footer-background {
+  background-color: #dddddd;
+  color: #565656;
+}
+
+.ui.top.menu, .ui.bottom.menu, .ui.segment, .ui.icon.menu {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.medium.image {
+  border: 25px solid white;
+}
+
+h5, p {
+  text-align: left;
+  -webkit-font-smoothing: antialiased;
+}
